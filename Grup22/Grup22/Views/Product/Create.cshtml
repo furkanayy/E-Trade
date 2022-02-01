@@ -1,0 +1,50 @@
+﻿@model Grup22.Models.Product
+
+@{
+    ViewData["Title"] = "Ürün Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Yeni Ürün Ekleme</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="productName" class="control-label"></label>
+                <input asp-for="productName" class="form-control" />
+                <span asp-validation-for="productName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="productDescription" class="control-label"></label>
+                <input asp-for="productDescription" class="form-control" />
+                <span asp-validation-for="productDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="productStock" class="control-label"></label>
+                <input asp-for="productStock" class="form-control" />
+                <span asp-validation-for="productStock" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="productPrice" class="control-label"></label>
+                <input asp-for="productPrice" class="form-control" />
+                <span asp-validation-for="productPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="productImageUrl" class="control-label"></label>
+                <input type="file" accept=".jpeg,.png" class="form-control" name="uploadImage" />
+                <span asp-validation-for="productImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="alert col-9" style="text-align:center;color:red">@ViewBag.message</div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+

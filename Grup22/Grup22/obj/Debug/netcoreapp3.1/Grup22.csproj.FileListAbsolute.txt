@@ -1,0 +1,795 @@
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.exe
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.deps.json
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.json
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.dev.json
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.Views.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csprojAssemblyReference.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfoInputs.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfo.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.input.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.output.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorCoreGenerate.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.Manifest.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.xml
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.genruntimeconfig.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CopyComplete
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CoreCompileInputs.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\bolme\source\repos\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\User\Admin.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.exe
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.deps.json
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.json
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.dev.json
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.Views.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csprojAssemblyReference.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfoInputs.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfo.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.input.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.output.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorCoreGenerate.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CopyComplete
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.Manifest.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.xml
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.genruntimeconfig.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Core.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Data.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Localization.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.ObjectExtending.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Uow.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Validation.Abstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\Login.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\Register.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\ForgotPassword.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Create.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Index.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Edit.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Delete.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.exe
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.deps.json
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.json
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.dev.json
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.Views.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Core.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Data.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Localization.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Volo.Abp.ObjectExtending.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Uow.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Validation.Abstractions.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.csprojAssemblyReference.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfoInputs.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfo.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CoreCompileInputs.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.input.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.output.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.RazorCoreGenerate.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\ForgotPassword.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\Login.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\Register.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Create.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Delete.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Edit.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Index.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cs
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CopyComplete
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.Manifest.cache
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.xml
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\oguzhanbolme\Desktop\Projects\YZM-4215-GRUP-22\grup22\grup22\obj\Debug\netcoreapp3.1\Grup22.genruntimeconfig.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.exe
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.deps.json
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.json
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.runtimeconfig.dev.json
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.Views.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Core.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Data.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Localization.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.ObjectExtending.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Uow.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\Volo.Abp.Validation.Abstractions.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csprojAssemblyReference.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfoInputs.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.AssemblyInfo.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CoreCompileInputs.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorAssemblyInfo.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.input.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.TagHelpers.output.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorCoreGenerate.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\ForgotPassword.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\Login.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\FactoryUser\Register.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Create.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Delete.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Edit.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Index.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.RazorTargetAssemblyInfo.cs
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.Views.pdb
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.csproj.CopyComplete
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.Manifest.cache
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\staticwebassets\Grup22.StaticWebAssets.xml
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.dll
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.pdb
+C:\Users\Furkan AY\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Grup22.genruntimeconfig.cache
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Product\IndexForSeller.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Sales\ShowOrders.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Sales\CreateOrder.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Sales\EditOrder.cshtml.g.cs
+C:\Users\EMRE\Source\Repos\atakankar\YZM-4215-GRUP-22\Grup22\Grup22\obj\Debug\netcoreapp3.1\Razor\Views\Sales\IndexSalesRecords.cshtml.g.cs

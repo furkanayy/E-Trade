@@ -1,0 +1,57 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@model Grup22.Models.Product
+
+@{
+    ViewData["Title"] = "Ürün Ayrıntıları";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Ürünün Detaylı Bilgileri</h1>
+<hr />
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productImageUrl)
+        </dt>
+        <dd class="col-sm-10">
+            <img class="img-responsive" src="@Html.DisplayFor(model => model.productImageUrl)" alt="image" />
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productDescription)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productDescription)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productStock)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productStock)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productPrice) TL
+        </dd>
+        <dt class="col-sm-2">
+            Üretim Yeri
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productFactoryUser.factoryUserAdress)
+        </dd>
+    </dl>
+</div>
+@if (HttpContextAccessor.HttpContext.Session.GetInt32("isFactory") == 1)
+{
+    <div>
+        <button type="button" class="btn btn-default btn-lg" onclick="window.location.href= '/Product/Edit/@Model.productId'">Ürün Bilgilerini Güncelle</button>
+    </div>
+}

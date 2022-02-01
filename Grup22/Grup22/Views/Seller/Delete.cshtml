@@ -1,0 +1,36 @@
+﻿@model Grup22.Models.Seller
+
+@{
+    ViewData["Title"] = "Bayi Silme";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Silmek istediğinize emin misiniz?</h3>
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.sellerEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.sellerEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.sellerName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.sellerName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.sellerAdress)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.sellerAdress)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="sellerId" />
+        <input type="submit" value="Sil" class="btn btn-danger btn-lg" />
+    </form>
+</div>

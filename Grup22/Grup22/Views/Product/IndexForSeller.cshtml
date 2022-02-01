@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Grup22.Models.Product>
+
+@{
+    ViewData["Title"] = "Ürünler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<p style="text-align:center; font:bold 30px arial, verdana;">ÜRÜNLER</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.productImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productStock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @if (item.productImageUrl != null)
+            {
+                <td>
+                    <img class="img-responsive" src="@Html.DisplayFor(modelItem => item.productImageUrl)" width="100" height="100" />
+                </td>
+            }
+            else
+            {
+                <td></td>
+            }
+            <td>
+                @Html.DisplayFor(modelItem => item.productName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productStock)
+            </td>
+            <td>
+                <div class="btn-group btn-group-lg">
+                    <button type="button" class="btn btn-default" onclick="window.location.href= '/Sales/CreateOrder/@item.productId'">Sipariş Oluştur</button>
+                    <button type="button" class="btn btn-default" onclick="window.location.href= '/Product/Details/@item.productId'">Ayrıntılar</button>
+                </div>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

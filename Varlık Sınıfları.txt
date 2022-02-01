@@ -1,0 +1,21 @@
+1.Varlık Sınıfı : Kayıt Olma ve Giriş Yönetimi
+-Sisteme mail adresi ve şifre ile kayıt olunacaktır.
+-Giriş işlemi için kayıtta kullanılan mail adresi ve şifre doğrulaması yapılmalıdır.
+
+2.Varlık Sınıfı: Ürün Yönetimi
+-Kullanıcı sisteme yeni ürün ekleyebilir
+-Kullanıcı sistemdeki ürünleri listeleyebilir
+-Kullanıcı ürün listesinden seçtiği bir ürünü güncelleyebilir
+-Kullanıcı ürün listesinden istediği ürünü silebilir.
+
+3.Varlık Sınıfı:Bayi Yönetimi
+-Kullanıcı bayi portföyüne yeni bayi ekleyebilir.
+-Kullanıcı portföyle bulunan bayileri listeleyebilir.
+-Kullanıcı portföyde bulunan bayileri güncelleyebilir.
+-Kullanıcı portföyde bulunan istediği bayiyi silebilir.
+
+4.Varlık Sınıfı:Ürün Satış Yönetimi
+-Kullanıcı bayiden gelen istek üzerine satış kaydı oluşturur ve sistem satılan ürün kaydını sisteme kaydeder.
+-Kullanıcı satış kaydına ait bayi ve ürünü listeleyebilir.
+-Kullanıcı sipariş bilgisini düzenleyebilir.
+-Kullanıcı iptal edilen siparişlerin kaydını silebilir.

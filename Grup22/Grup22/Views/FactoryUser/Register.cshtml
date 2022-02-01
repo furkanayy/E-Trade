@@ -1,0 +1,70 @@
+﻿@model Grup22.Models.FactoryUser
+
+@{
+    ViewBag.Title = "Kayıt Ol";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/jquery/dist/jquery.min.js" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js" />
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+    <br />
+    <br />
+    <p style="text-align:center;font-family:Calibri;color:cadetblue;font-size:50px">FİRMANI KAYDET</p>
+    <br />
+    <div class="form-horizontal">
+        <div class="offset-2">
+            @using (Html.BeginForm())
+            {
+                <div class="form-group">
+                    <div class="alert col-9" style="text-align:center;color:red">@ViewBag.result</div>
+                </div>
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.EditorFor(model => model.factoryUserEmail, new { htmlAttributes = new { @class = "form-control col-9", @placeholder = "Mail Adresi", @type = "email" } })
+                    @Html.ValidationMessageFor(model => model.factoryUserEmail, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.EditorFor(model => model.factoryUserName, new { htmlAttributes = new { @class = "form-control col-9", @placeholder = "Firma Adı" } })
+                    @Html.ValidationMessageFor(model => model.factoryUserName, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.EditorFor(model => model.factoryUserAdress, new { htmlAttributes = new { @class = "form-control col-9", @placeholder = "Adres" } })
+                    @Html.ValidationMessageFor(model => model.factoryUserAdress, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <input asp-for="factoryUserPassword" placeholder="Şifre" class="form-control pwd col-9" type="password" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^\da-zA-Z]).{8,15}$"
+                           title="En az bir rakam ve bir büyük ve küçük harf ve bir özel karakter ve en az 8 en fazla 15 karakter içermelidir" />
+                    <span class="form-group-btn">
+                        <button class="btn btn-default reveal" type="button"><i class="glyphicon glyphicon-eye-open"></i></button>
+                    </span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="KAYIT OL" class="btn btn-primary col-9" />
+                </div>
+            }
+        </div>
+    </div>
+    <script>
+        $(".reveal").mousedown(function () {
+            $(".pwd").replaceWith($('.pwd').clone().attr('type', 'text'));
+        })
+            .mouseup(function () {
+                $(".pwd").replaceWith($('.pwd').clone().attr('type', 'password'));
+            })
+            .mouseout(function () {
+                $(".pwd").replaceWith($('.pwd').clone().attr('type', 'password'));
+            });
+    </script>
+</body>
+</html>

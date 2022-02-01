@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Tuple<Grup22.Models.ProductSalesRecord, Grup22.Models.Product>>
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "İşlemdeki Siparişler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>İşlemdeki Siparişler</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Ürün Adı
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Item1.salesRecordAmount)
+            </th>
+            <th>
+                Ürünün Birim Fiyatı
+            </th>
+            <th>
+                    Toplam Tutar
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item2.productName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item1.salesRecordAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item2.productPrice) TL
+                </td>
+                <td>
+                        @{
+                            var amount = item.Item1.salesRecordAmount;
+                            var price = item.Item2.productPrice;
+                            string totalPrice = (price * amount).ToString();
+                    } 
+                    @totalPrice TL
+                    </td>
+                <td>
+                    @if (HttpContextAccessor.HttpContext.Session.GetInt32("isFactory") == 0)
+                    {
+                        <div class="btn-group btn-group-lg" style="">
+                            <button type="button" class="btn btn-default" onclick="window.location.href= '/Sales/EditOrder/@item.Item1.salesRecordId'">Düzenle</button>
+                            <button type="button" class="btn btn-danger" onclick="window.location.href= '/Sales/DeleteOrder/@item.Item1.salesRecordId'">İptal Et</button>
+                        </div>
+                    }
+                    else if (HttpContextAccessor.HttpContext.Session.GetInt32("isFactory") == 1)
+                    {
+                        <div class="btn-group btn-group-lg">
+                            <button type="button" class="btn btn-default" onclick="window.location.href= '/Sales/EditOrder/@item.Item1.salesRecordId'">Detay</button>
+                            <button type="button" class="btn btn-success" onclick="window.location.href= '/Sales/AcceptOrder/@item.Item1.salesRecordId'">Onayla</button>
+                            <button type="button" class="btn btn-danger" onclick="window.location.href= '/Sales/RejectOrder/@item.Item1.salesRecordId'">Reddet</button>
+                        </div>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Tuple<Grup22.Models.ProductSalesRecord, Grup22.Models.Product>>
+
+@{
+    ViewData["Title"] = "Satış Kayıtları";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Satış Kayıtları</h1>
+
+<table id="dataTable" class="table table-striped table-bordered" width="100%">
+    <thead>
+        <tr>
+            <th>
+                Ürün İsmi
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Item1.salesRecordAmount)
+            </th>
+            <th>
+                Ürün Birim Fiyatı
+            </th>
+            <th>
+                Toplam Ödenen Ücret
+            </th>
+            <th>
+                Sipariş Oluşturulma Tarihi
+            </th>
+            <th>
+                Sipariş Tamamlanma Tarihi
+            </th>
+            @*<th>
+                    Bayi Adresi
+                </th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item2.productName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item1.salesRecordAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item2.productPrice) TL
+                </td>
+                <td>
+                    @{
+                        var amount = item.Item1.salesRecordAmount;
+                        var price = item.Item2.productPrice;
+                        string totalPrice = (price * amount).ToString();
+                    }
+                    @totalPrice TL
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item1.orderCreationDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Item1.orderCompletionDate)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.Item2.productFactoryUser.factoryUserAdress)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Item1.salesRecordProduct)
+                    </td>*@
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $("#dataTable").dataTable({
+            "language": {
+                "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
+            },
+            "searching": true,
+            "ordering": true,
+            "paging": true,
+            "pagingType": "full_numbers",
+            "pageLength": 10,
+            "responsive": true,
+            "columnDefs": [{
+                "targets": 3,
+                "orderable": false
+            }]
+        });
+    });
+</script>

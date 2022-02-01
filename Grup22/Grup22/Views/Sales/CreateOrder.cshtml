@@ -1,0 +1,58 @@
+﻿@model Grup22.Models.Product
+
+@{
+    ViewData["Title"] = "Sipariş Oluştur";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Sipariş Oluştur</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productImageUrl)
+        </dt>
+        <dd class="col-sm-10">
+            <img class="img-responsive" src="@Html.DisplayFor(model => model.productImageUrl)" width="100" height="100" />
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productName)
+        </dd>
+        <dt class="col-sm-2">
+            Mevcut Stok
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productStock)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.productPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productPrice) TL
+        </dd>
+        <dt class="col-sm-2">
+            Fabrika Adresi
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.productFactoryUser.factoryUserAdress)
+        </dd>
+    </dl>
+</div>
+<div>
+    <form method="post" action="">
+        <div class="form-horizontal">
+            <div class="form-group">
+                <div class="alert col-sm-3" style="color:red">@ViewBag.error</div>
+            </div>
+            <div class="form-group">
+                <input class="col-sm-3" name="amountRequested" type="number" />
+            </div>
+            <div class="form-group">
+                <button class="col-sm-2 btn btn-primary btn-lg" type="submit" name="saleProductId" value="@Html.DisplayFor(model => model.productId)">Siparişi Oluştur</button>
+            </div>
+        </div>
+    </form>
+</div>

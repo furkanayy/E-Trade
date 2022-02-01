@@ -1,0 +1,74 @@
+﻿@model Grup22.Models.Seller
+
+@{
+    ViewData["Title"] = "Bayi Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Yeni Bayi Ekleme</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="sellerEmail" class="control-label"></label>
+                <input asp-for="sellerEmail" class="form-control" type="email" />
+                <span asp-validation-for="sellerEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sellerPassword" class="control-label"></label>
+                <input asp-for="sellerPassword" class="form-control" type="password" />
+                <span asp-validation-for="sellerPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sellerName" class="control-label"></label>
+                <input asp-for="sellerName" class="form-control" />
+                <span asp-validation-for="sellerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sellerOwnersName" class="control-label"></label>
+                <input asp-for="sellerOwnersName" class="form-control" />
+                <span asp-validation-for="sellerOwnersName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.Label("İl")
+                @Html.DropDownList("DrpCity", new SelectList(ViewBag.Cities, "CityID", "CityName"), "---İl Seçiniz---", new { @class = "form-control" })
+                @*@Html.DropDownListFor(m => m.sellerCityName, new SelectList(ViewBag.Cities, "CityID", "CityName"), "---İl Seçiniz---", new { @class = "form-control" })*@
+                @Html.Label("İlçe")
+                @Html.DropDownList("DrpTown", new SelectList(ViewBag.Towns, "TownID", "TownName"), "---İlçe Seçiniz---", new { @class = "form-control" })
+                @*@Html.DropDownListFor(m => m.sellerTownName, new SelectList(ViewBag.Towns, "TownID", "TownName"), "---İlçe Seçiniz---", new { @class = "form-control" })*@
+            </div>
+            <div class="form-group">
+                <label asp-for="sellerAdress" class="control-label"></label>
+                <textarea asp-for="sellerAdress" class="form-control" rows="2"></textarea>
+                <span asp-validation-for="sellerAdress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Yeni Bayi Ekle" class="btn btn-primary btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        $('#DrpCity').change(function () {
+            var id = $('#DrpCity').val();
+            $.ajax({
+                url: '/Seller/getTowns',
+                data: { cityId: id },
+                type: "POST",
+                dataType: "Json",
+                success: function (data) {
+                    console.log(data);
+                    $('#DrpTown').empty();
+                    for (var i = 0; i < data.length; i++) {
+                        $('#DrpTown').append("<option value='" + data[i].value + "'>" + data[i].text + "</option>");
+                    }
+                }
+            });
+        });
+    });
+</script>

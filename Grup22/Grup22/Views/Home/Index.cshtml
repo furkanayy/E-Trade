@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "Anasayfa";
+    Layout = null;
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body style="background-color:powderblue;">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div style="display: flex; justify-content: center; align-items: center; height: 35vh;">
+                    <h1 class="display-1" style=" text-align:center">Fabrika İş Akış Sistemine Hoş Geldiniz</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-5 col-md-12" style="border-style: solid;border-radius: 25px; background-color: #fffdd0">
+                <h1 style="text-align: center;margin-bottom:20px;">Fabrika Kullanıcısı</h1>
+                <h1 style="text-align: center;"><a href="/factoryuser/register"><span style="padding: 20px;margin-bottom:40px;" class="badge badge-primary">Kayıt Ol</span></a></h1>
+                <h1 style="text-align: center;"><a href="/factoryuser/login"><span style="padding: 20px;margin-bottom:40px;" class="badge badge-success">Fabrika Girişi Yap</span></a></h1>
+                <h1 style="text-align: center;"><a href="/factoryuser/forgotpassword"><span style="padding: 20px;margin-bottom:23px;" class="badge badge-danger">Şifremi Unuttum</span></a></h1>
+            </div>
+            <div class="col-lg-2"></div>
+            <div class="col-lg-5 col-md-12" style="border-style: solid;border-radius: 25px; background-color: #fffdd0" margin-bottom:40px;>
+                <h1 style="text-align: center;margin-bottom:20px;">Bayi Kullanıcısı</h1>
+                <h1 style="text-align: center;"><a href="/SellerUser/login"><span style="padding: 20px; margin-bottom:40px;" class="badge badge-success">Bayi Girişi Yap</span></a></h1>
+                <h1 style="text-align: center;"><a href="/SellerUser/forgotpassword"><span style="padding: 20px;margin-bottom:40px;" class="badge badge-danger">Şifremi Unuttum</span></a></h1>
+            </div>
+        </div>
+    </div>
+</body>
+

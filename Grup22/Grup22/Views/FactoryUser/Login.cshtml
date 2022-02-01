@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Giriş Yap";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+</head>
+<body>
+    <br />
+    <br />
+    <p style="text-align:center;font-family:Calibri;color:cadetblue;font-size:50px">GİRİŞ YAP</p>
+    <br />
+    <div class="offset-2">
+        <form method="post" action="Login">
+            @Html.AntiForgeryToken()
+            <div class="form-horizontal">
+                <div class="form-group">
+                    <div class="alert col-9" style="text-align:center;color:red">@ViewBag.error</div>
+                </div>
+                <div class="form-group">
+                    <input type="email" name="factoryUserEmail" class="form-control col-9" placeholder="Emailinizi Giriniz" required />
+                </div>
+                <div class="form-group">
+                    <input type="password" name="factoryUserPassword" class="form-control col-9" placeholder="Şifrenizi Giriniz" required />
+                </div>
+                @if(ViewBag.loginNumber >= 3)
+                { <div class="g-recaptcha" data-sitekey="6Lfn2i4aAAAAANRyNQgsHUj9JwQYqG1Z0opIUmbi"></div> }
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary col-9">GİRİŞ YAP</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
